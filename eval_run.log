@@ -1,0 +1,95 @@
+2026-10-25 14:04:33,523 | INFO | using issue_refund_ticket for user: user123
+2026-10-25 14:04:33,523 | INFO | using the date tool
+2026-10-25 14:04:34,518 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:34,531 | INFO | using get_user_purchase_history tool on user: user123
+2026-10-25 14:04:35,510 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:35,526 | INFO | using calculate_right_refund tool to get user's: user123 refund
+2026-10-25 14:04:36,051 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:36,067 | INFO | using the date tool
+2026-10-25 14:04:36,905 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:36,921 | INFO | using issue_refund_ticket for user: user123
+2026-10-25 14:04:37,280 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:38,134 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:38,152 | INFO | using get_user_purchase_history tool on user: user123
+2026-10-25 14:04:39,062 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:39,081 | INFO | using calculate_right_refund tool to get user's: user123 refund
+2026-10-25 14:04:39,603 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:39,622 | INFO | using the date tool
+2026-10-25 14:04:40,466 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:40,484 | INFO | using issue_refund_ticket for user: user123
+2026-10-25 14:04:40,846 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:42,039 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:42,059 | INFO | using get_user_purchase_history tool on user: user123
+2026-10-25 14:04:42,398 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:43,734 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:43,753 | INFO | using get_user_purchase_history tool on user: user999
+2026-10-25 14:04:44,105 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:45,220 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:45,240 | INFO | using get_user_purchase_history tool on user: user126
+2026-10-25 14:04:46,202 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:46,219 | INFO | using calculate_right_refund tool to get user's: user126 refund
+2026-10-25 14:04:46,745 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:46,760 | INFO | using the date tool
+2026-10-25 14:04:47,607 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:47,625 | INFO | using issue_refund_ticket for user: user126
+2026-10-25 14:04:48,011 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:49,269 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:49,291 | INFO | using get_user_purchase_history tool on user: user126
+2026-10-25 14:04:50,445 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:50,470 | INFO | using calculate_right_refund tool to get user's: user126 refund
+2026-10-25 14:04:51,248 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:51,269 | INFO | using the date tool
+2026-10-25 14:04:52,224 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:52,246 | INFO | using issue_refund_ticket for user: user126
+2026-10-25 14:04:52,732 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:53,971 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:04:53,994 | INFO | using get_user_purchase_history tool on user: user126
+2026-10-25 14:04:54,405 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:06:08,678 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:06:27,091 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:07:30,182 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:08:35,931 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:09:44,529 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:10:00,261 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:11:16,689 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:11:18,201 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:11:37,396 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:11:56,499 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:12:04,434 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:12:21,782 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:12:37,426 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:13:46,777 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:13:57,447 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:14:01,281 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:14:04,359 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:15:13,055 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:15:17,281 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:16:27,431 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:16:36,644 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:16:40,540 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:16:45,678 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:17:51,968 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:18:03,623 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:19:19,979 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:19:47,298 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:19:54,610 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:19:57,970 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:20:17,590 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:21:22,739 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:22:42,125 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:24:09,298 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:24:33,815 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:24:36,891 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:24:37,790 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:24:57,958 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:25:00,561 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:26:12,458 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:26:22,333 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:26:38,235 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:26:43,335 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:26:45,270 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:26:49,189 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:27:06,730 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:27:16,056 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:27:29,433 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-25 14:28:41,793 | INFO | HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
